@@ -38,9 +38,9 @@ I'm an English language instructor and applied linguist with **more than 13 year
 
 | Period | Role | Institution |
 |---|---|---|
-| Aug 2024 – present | English Language Instructor | Community College of Qatar, Doha |
-| Aug 2015 – present | English Language Teacher (full time) | Ministry of Education and Higher Education, Doha |
-| Sep 2013 – Jul 2015 | Associate Lecturer (part time) | Sudan University of Science and Technology, Khartoum |
+| Aug 2024 – present | English Language Instructor (Permanent) | Community College of Qatar, Doha |
+| Aug 2015 – present | English Language Teacher (Permanent) | Ministry of Education and Higher Education, Doha |
+| Sep 2013 – Jul 2015 | Associate Lecturer (Adjunct) | Sudan University of Science and Technology, Khartoum |
 | Feb 2013 – Mar 2015 | English Language Teacher, IGCSE section | British Educational Schools, Khartoum |
 
 ---
