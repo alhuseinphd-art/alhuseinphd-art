@@ -26,7 +26,7 @@
 I'm an English language instructor and applied linguist with **more than 13 years of teaching experience** in Sudan and Qatar. I focus on each learner's needs and on interactive, safe learning environments. I also help teachers, postgraduate students and researchers **work smarter with AI and digital research tools**.
 
 - 🎓 **PhD in Applied Linguistics**, Sudan University of Science and Technology (2017)
-- 🏫 **English Language Instructor (adjunct)**, Community College of Qatar
+- 🏫 **English Language Instructor**, Community College of Qatar, Qatar
 - 🏛️ **English Language Teacher**, Ministry of Education and Higher Education, Qatar
 - 🤖 **Google Certified Educator (Level 1 & 2)**, **Gemini Certified Educator** and **Gemini Certified Faculty** (2026)
 - 🔬 Research interests: **AI in education**, **non-verbal communication in the classroom**, **literature in ELT**
