@@ -98,6 +98,8 @@ All published in *European Academic Research* (ISSN 2286-4822).
 - **Teaching English through Literature**, Indiana University (2011)
 - **Professional Development for University Staff**, Sudan University of Science and Technology (2013)
 - **SPSS** course (2013) · **Microsoft Office Diploma** (2013)
+- **Training of Trainers (TOT)**. **Cambridge** (2024)
+- 
 
 ## 🎤 Conferences & workshops
 
